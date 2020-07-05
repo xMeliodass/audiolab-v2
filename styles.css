@@ -1,0 +1,23 @@
+.navbar-nav a{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.margin-class{
+    margin-top: 30px; 
+}
+
+.center{
+    text-align: center;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
